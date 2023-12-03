@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohibullah Foysal</h1>
-<h3 align="center">A passionate developer and learner based on your service.</h3>
+<p align="center">
+I'm a dedicated student. And learner doing work at a software company, where I'm diving into the world of softwares & technology. Every day is a new opportunity to learn and apply exciting concepts in this ever-evolving field.
+</p>
 
 
 <div align="center">
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **mohibullah2k0@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny and love to learn new things.**
+- ⚡ Fun fact **Beyond coding, I'm deeply passionate about exploring and understanding various psychological aspects. I find joy in contemplating different perspectives and reflecting on the intricacies of the human mind. This curiosity not only fuels my personal growth but also adds a unique dimension to my approach in web development.In my free time, you'll likely find me immersed in a good book, experimenting with coding projects, or planning my next adventure. I'm a firm believer that travel broadens the mind and exposes us to new ideas, cultures, and ways of thinking.As I navigate the dual roles of student and web developer, I'm excited to connect with fellow learners, developers, and anyone passionate about the intersection of technology and human experience. Let's share our journeys, insights, and maybe even collaborate on some exciting projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
